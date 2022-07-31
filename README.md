@@ -4,6 +4,8 @@
 
 ### Hi there 👋
 
+# Main page under construction
+
 <!--
 **kon6443/kon6443** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,6 +21,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+
+Stacks
 <img src="https://img.shields.io/badge/c-blue?style=plastic&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/-c++-00599C?style=plastic&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-yellowgreen?style=plastic&logo=Git&logoColor=Red"/></a>
