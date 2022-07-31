@@ -1,3 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&&height=300&section=header&text=Onam%20Kwon&fontSize=90&&animation=twinkling&color=97DBAE&fontColor=363636" />
+
+
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +18,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://img.shields.io/badge/c-blue?style=plastic&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/-c++-00599C?style=plastic&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-yellowgreen?style=plastic&logo=Git&logoColor=Red"/></a>
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=plastic&logo=Python&logoColor=white"/>
+<img alt="Python" src ="https://img.shields.io/badge/Node.JS-express.svg?&style=plastic&logo=Node.js&logoColor=white"/>
+<img alt="Python" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=plastic&logo=Docker&logoColor=white"/>
