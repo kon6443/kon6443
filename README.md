@@ -4,7 +4,10 @@
 
 ### Hi there 👋
 
-# Main page under construction
+# Main page under construction...
+# In progress....
+
+
 
 <!--
 **kon6443/kon6443** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
