@@ -37,6 +37,13 @@
  🧑🏻‍💻 About me 🧑🏻‍💻
  </h1>
 <div align="center">
- <img style="display: inline;" href="https://velog.io/@kon6443" src="https://img.shields.io/badge/Tech blog-20C997?style=plastic&logo=velog&logoColor=white"/>
- <a style="display: inline;" href="mailto:kon6443@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=kon6443@gmail.com"/></a>
+ <a style="display: inline;" href="https://velog.io/@kon6443">
+  <img src="https://img.shields.io/badge/Tech blog-20C997?style=plastic&logo=velog&logoColor=white&link=https://velog.io/@kon6443"/>
+ </a>
+ <a style="display: inline;" href="mailto:kon6443@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=kon6443@gmail.com"/>
+ </a>
+ <a style="display: inline;" href="https://onam-kwon.notion.site/onam-kwon/Hello-World-216492f016de4c11a5412f9ec5ec4748">
+  <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white&link=https://onam-kwon.notion.site/onam-kwon/Hello-World-216492f016de4c11a5412f9ec5ec4748"/>
+ </a>
 </div>
