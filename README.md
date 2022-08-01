@@ -9,36 +9,32 @@
 
 
 
+
 ### Hi there 👋
 
 # Main page is currently under construction...
 
-<!--
-**kon6443/kon6443** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">
+ 🧑🏻‍💻 About me 🧑🏻‍💻
+</h1>
+<a href="https://velog.io/@kon6443"> Check out my velog by clicking here! </a>
 
 
-
-
-# 🛠 Tech stacks 🛠
-<img src="https://img.shields.io/badge/c-blue?style=plastic&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/-c++-00599C?style=plastic&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-yellowgreen?style=plastic&logo=Git&logoColor=Red"/></a>
-<img src ="https://img.shields.io/badge/Python-3776AB.svg?&style=plastic&logo=Python&logoColor=white"/>
-<img src ="https://img.shields.io/badge/Node.JS-express.svg?&style=plastic&logo=Node.js&logoColor=white"/>
-<img src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=plastic&logo=Docker&logoColor=white"/>
-<img src ="https://img.shields.io/badge/SQLite-003B57.svg?&style=plastic&logo=sqlite&logoColor=white"/>
-<img src ="https://img.shields.io/badge/AWS EC2-FF9900.svg?&style=plastic&logo=amazonec2&logoColor=white"/>
-
+<h1 align="center">
+ 🛠 Tech stacks 🛠
+</h1>
+<div align="center">
+ <img style="display: inline;" src="https://img.shields.io/badge/c-blue?style=plastic&logo=C&logoColor=white"/> 
+ <img style="display: inline;" src="https://img.shields.io/badge/-c++-00599C?style=plastic&logo=c%2B%2B&logoColor=white"/> 
+ <img style="display: inline;" src="https://img.shields.io/badge/Git-yellowgreen?style=plastic&logo=Git&logoColor=Red"/> 
+ <img style="display: inline;" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=plastic&logo=Python&logoColor=white"/> 
+ 
+ </br>
+ 
+ <img style="display: inline;" src ="https://img.shields.io/badge/Node.JS-express.svg?&style=plastic&logo=Node.js&logoColor=white"/> 
+ <img style="display: inline;" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=plastic&logo=Docker&logoColor=white"/> 
+ <img style="display: inline;" src ="https://img.shields.io/badge/SQLite-003B57.svg?&style=plastic&logo=sqlite&logoColor=white"/> 
+ <img style="display: inline;" src ="https://img.shields.io/badge/AWS EC2-FF9900.svg?&style=plastic&logo=amazonec2&logoColor=white"/> 
+</div>
 
