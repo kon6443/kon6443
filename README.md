@@ -46,4 +46,7 @@
  <a style="display: inline;" href="https://onam-kwon.notion.site/onam-kwon/Hello-World-216492f016de4c11a5412f9ec5ec4748">
   <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white&link=https://onam-kwon.notion.site/onam-kwon/Hello-World-216492f016de4c11a5412f9ec5ec4748"/>
  </a>
+ <a style="display: inline;" href="https://stackoverflow.com/users/8812329/onam-kwon">
+  <img src="https://img.shields.io/badge/Stack Overflow-F58025?style=plastic&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/8812329/onam-kwon"/>
+ </a>
 </div>
