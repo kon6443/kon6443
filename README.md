@@ -1,3 +1,4 @@
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&&height=300&section=header&text=Onam%20Kwon&fontSize=90&&animation=twinkling&color=97DBAE&fontColor=363636" />
 
 
@@ -8,9 +9,9 @@
 </div>
 
 
+# Hi there 👋
 
-
-### Hi there 👋
+</div>
 
 
 <h1 align="center">
