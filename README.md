@@ -12,14 +12,6 @@
 
 ### Hi there 👋
 
-# Main page is currently under construction...
-
-
-<h1 align="center">
- 🧑🏻‍💻 About me 🧑🏻‍💻
-</h1>
-<a href="https://velog.io/@kon6443"> Check out my velog by clicking here! </a>
-
 
 <h1 align="center">
  🛠 Tech stacks 🛠
@@ -38,3 +30,10 @@
  <img style="display: inline;" src ="https://img.shields.io/badge/AWS EC2-FF9900.svg?&style=plastic&logo=amazonec2&logoColor=white"/> 
 </div>
 
+<h1 align="center">
+ 🧑🏻‍💻 About me 🧑🏻‍💻
+ </h1>
+<div align="center">
+ <img style="display: inline;" href="https://velog.io/@kon6443" src="https://img.shields.io/badge/Tech blog-20C997?style=plastic&logo=velog&logoColor=white"/>
+ <a style="display: inline;" href="mailto:kon6443@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=kon6443@gmail.com"/></a>
+</div>
