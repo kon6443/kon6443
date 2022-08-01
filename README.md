@@ -27,10 +27,13 @@ Here are some ideas to get you started:
 
 
 
-Stacks
+# 🛠 Tech stacks 🛠
 <img src="https://img.shields.io/badge/c-blue?style=plastic&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/-c++-00599C?style=plastic&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-yellowgreen?style=plastic&logo=Git&logoColor=Red"/></a>
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=plastic&logo=Python&logoColor=white"/>
-<img alt="Python" src ="https://img.shields.io/badge/Node.JS-express.svg?&style=plastic&logo=Node.js&logoColor=white"/>
-<img alt="Python" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=plastic&logo=Docker&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Python-3776AB.svg?&style=plastic&logo=Python&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Node.JS-express.svg?&style=plastic&logo=Node.js&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=plastic&logo=Docker&logoColor=white"/>
+<img src ="https://img.shields.io/badge/SQLite-003B57.svg?&style=plastic&logo=sqlite&logoColor=white"/>
+<img src ="https://img.shields.io/badge/AWS EC2-FF9900.svg?&style=plastic&logo=amazonec2&logoColor=white"/>
+
