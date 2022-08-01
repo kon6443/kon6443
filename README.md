@@ -1,15 +1,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&&height=300&section=header&text=Onam%20Kwon&fontSize=90&&animation=twinkling&color=97DBAE&fontColor=363636" />
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kon6443&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=kon6443&theme=dark&show_icons=true" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kon6443&layout=compact&theme=dark&hide=html,tex" />
+</div>
+
 
 
 ### Hi there 👋
 
 # Main page is currently under construction...
-# In progress....
-
-
 
 <!--
 **kon6443/kon6443** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,4 +40,5 @@ Here are some ideas to get you started:
 <img src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=plastic&logo=Docker&logoColor=white"/>
 <img src ="https://img.shields.io/badge/SQLite-003B57.svg?&style=plastic&logo=sqlite&logoColor=white"/>
 <img src ="https://img.shields.io/badge/AWS EC2-FF9900.svg?&style=plastic&logo=amazonec2&logoColor=white"/>
+
 
