@@ -37,7 +37,7 @@
  🧑🏻‍💻 About me 🧑🏻‍💻
  </h1>
 <div align="center">
- <a> Try to click badges </a> <br><br>
+ <a> Try to click badges below </a> <br><br>
  <a style="display: inline;" href="https://velog.io/@kon6443">
   <img src="https://img.shields.io/badge/Tech blog-20C997?style=plastic&logo=velog&logoColor=white&link=https://velog.io/@kon6443"/>
  </a>
