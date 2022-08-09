@@ -38,8 +38,8 @@
  </h1>
 <div align="center">
  <a> Try to click badges below </a> <br><br>
- <a style="display: inline;" href="https://velog.io/@kon6443">
-  <img src="https://img.shields.io/badge/Tech blog-20C997?style=plastic&logo=velog&logoColor=white&link=https://velog.io/@kon6443"/>
+ <a style="display: inline;" href="https://velog.io/@kon6443/series">
+  <img src="https://img.shields.io/badge/Tech blog-20C997?style=plastic&logo=velog&logoColor=white&link=https://velog.io/@kon6443/series"/>
  </a>
  <a style="display: inline;" href="mailto:kon6443@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=kon6443@gmail.com"/>
