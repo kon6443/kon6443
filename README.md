@@ -27,10 +27,11 @@
  </br>
  <img style="display: inline;" src ="https://img.shields.io/badge/Node.JS-express.svg?&style=plastic&logo=Node.js&logoColor=white"/> 
  <img style="display: inline;" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=plastic&logo=Docker&logoColor=white"/> 
- <img style="display: inline;" src ="https://img.shields.io/badge/SQLite-003B57.svg?&style=plastic&logo=sqlite&logoColor=white"/> 
+
  <img style="display: inline;" src ="https://img.shields.io/badge/AWS EC2-FF9900.svg?&style=plastic&logo=amazonec2&logoColor=white"/> 
  </br>
  <img style="display: inline;" src ="https://img.shields.io/badge/MySQL-00758f.svg?&style=plastic&logo=MySQL&logoColor=white"/> 
+ <img style="display: inline;" src ="https://img.shields.io/badge/JAVA-007396.svg?&style=plastic&logo=Java&logoColor=white"/> 
 </div>
 
 <h1 align="center">
