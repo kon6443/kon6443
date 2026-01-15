@@ -3,12 +3,6 @@
 
 
 
- <div style="display: flex; flex-direction: row;">
-  <img class="img" src="https://github-readme-stats.vercel.app/api?username=kon6443&theme=dark&show_icons=true" />
-  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kon6443&layout=compact&theme=dark&hide=html,tex" />
- </div>
-
-
  <h1 align="text"> 
   <a> Hi there 👋 Welcome! </a>
  </h1>
